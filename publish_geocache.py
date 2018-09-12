@@ -118,7 +118,7 @@ def create_cache(elts, n):
     
 def parse_caches():
     global n
-    with io.open("caches_last.txt",'r',encoding='utf8') as f:
+    with io.open("sample.txt",'r',encoding='utf8') as f:
         lines = f.readlines()
         
     for line in lines:
