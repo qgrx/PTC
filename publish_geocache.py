@@ -132,13 +132,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-u', '--username')
     parser.add_argument('-p', '--password')
-    args = parser.parse_args()
-    connect(args.username, args.password)
-
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-u', '--username')
-    parser.add_argument('-p', '--password')
     parser.add_argument('-F', '--powertrailFile')
     args = parser.parse_args()
     connect(args.username, args.password)
