@@ -2,6 +2,7 @@
 import io
 import argparse
 import json
+import requests
 from requests import session
 from bs4 import BeautifulSoup
 
@@ -12,18 +13,19 @@ n = 1
 
 def connect(u, p):
     global c
-    payload = {
-        'ctl00$ContentBody$btnSignIn': 'Login',
-        'ctl00$ContentBody$cbRememberMe': 'On',
-        'ctl00$ContentBody$tbUsername': u,
-        'ctl00$ContentBody$tbPassword': p,
-        '__EVENTTARGET': '',
-        '__EVENTARGUMENT': ''
-    }
 
     c = session()
     c.cookies.clear()
-    c.post('https://www.geocaching.com/login/', data=payload)
+     
+    html = c.get('https://www.geocaching.com/account/login', verify=False)
+    rvt = get_requestVerificationToken(html.text)
+    payload = {
+        'Username': u,
+        'Password': p,
+        '__RequestVerificationToken': rvt
+    }
+
+    r = c.post('https://www.geocaching.com/account/login/', data=payload, verify=False)
     print('== Login done (account : ' + u + ') ==')
 
         
