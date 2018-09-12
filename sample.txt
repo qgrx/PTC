@@ -1,0 +1,500 @@
+48.806672|4.607165|souche, dans un trou|
+48.804272|4.606978|poteau|
+48.802366|4.607692|pied d'arbre|
+48.801006|4.609990|pied gros arbre|
+48.799617|4.611169|buisson|
+48.798354|4.612245|buisson|
+48.797260|4.613849|buisson|
+48.795931|4.615580|arbuste|
+48.794938|4.617274|pied d'arbre|
+48.794393|4.619474|pied d’arbre double tronc|
+48.795135|4.621617|débris, entre 2 pierres|
+48.795771|4.626327|sous des pierres contre le mur derrière le poste électrique|
+48.797475|4.627878|lierre|
+48.798946|4.627940|multi troncs|
+48.800736|4.629257|borne|
+48.802212|4.631070|tas de pierres|
+48.804186|4.633412|pied d’arbuste, sous bâche noire|
+48.806834|4.635172|derrière calvaire, sous des pierres|
+48.808587|4.635881|arbre|
+48.809794|4.637280|sapin|
+48.810048|4.639482|au pied de l’arbre avec lierre|
+48.810871|4.641288|arbuste près de l’entrée du pré|
+48.812053|4.642869|arbre, à hauteur des yeux|
+48.813334|4.644528|poteau électrique|
+48.814616|4.645600|piquet|
+48.815363|4.647508|arbuste|
+48.816735|4.648619|creux de l'arbre|
+48.817868|4.650038|arbuste dans le fossé, coincé entre les branches|
+48.818537|4.652060|trou sous ardoise|
+48.820049|4.655168|trou sous ardoise|
+48.82207|4.65934|trou sous ardoise|
+48.822973|4.661766|D81|
+48.823473|4.663951|trou sous ardoise|
+48.823987|4.666090|trou sous ardoise|
+48.825029|4.669190|panneau|
+48.827217|4.670266|blanc et gris|
+48.826856|4.672803|panneau|
+48.826010|4.674969|blanc et gris|
+48.826141|4.677342|blanc et gris|
+48.82207|4.65934|trou sous ardoise|
+48.829204|4.682650|D81|
+48.829886|4.686616|au pied de l'arbre|
+48.831212|4.687580|lierre, à hauteur de ceinture|
+48.831930|4.690066|poteau électrique|
+48.832557|4.692580|débris, sous pierres et tuiles|
+48.833899|4.693605|D69|
+48.835327|4.694743|arbre noueux, 1m30|
+48.836105|4.696607|au pied de l'arbuste|2,5
+48.836951|4.698472|au creux de l'arbre|3
+48.838107|4.699936|lierre, à 60cm|
+48.840020|4.703316|D69|
+48.841844|4.706396|dans le fossé|
+48.844817|4.708384|arbuste|2,5
+48.846847|4.709698|panneau|
+48.84869|4.71098|trou sous ardoise|
+48.851112|4.713304|panneau|
+48.852485|4.714840|blanc et gris|
+48.855174|4.715051|blanc et gris|
+48.856368|4.717282|panneau|
+48.858107|4.721137|coin du mur, derrière pierres|
+48.859193|4.722853|poteau de parc|
+48.860236|4.725186|pied d'arbre|2,5
+48.861957|4.726088|piquet|
+48.863232|4.724783|pied de thuya, sous pierre|
+48.864854|4.725996|borne incendie|
+48.86707|4.72639|lierre, contre mur en brique|
+48.869053|4.726007|D69|
+48.870663|4.725717|cépée d'arbre|
+48.872399|4.725807|lierre contre un poteau|
+48.874305|4.725886|pied d'arbustes|2
+48.876385|4.725990|coin pied arbuste|
+48.877845|4.725874|cépée d'arbre|2
+48.879626|4.727803|bouleau|2
+48.880257|4.730271|arbre à 3 troncs|2
+48.881131|4.732456|trou sous ardoise|
+48.882711|4.735362|pied du gros arbre|
+48.883843|4.736722|au pied du pin|2
+48.885033|4.738056|cépée de bouleau|2
+48.886038|4.739792|pied d'arbuste|
+48.887031|4.741955|trou sous ardoise|
+48.888432|4.743737|arbustes|2
+48.889871|4.745262|D69|
+48.892622|4.748824|arbustes|
+48.893173|4.754738|arbustes|
+48.893613|4.756876|tronc d’arbre arraché sur le haut|
+48.894214|4.759748|grand pin|2
+48.895814|4.759232|pied cépée|2
+48.897463|4.759193|pied de l’arbre, sous des feuilles|
+48.899117|4.759227|buis|
+48.899877|4.762616|buissons|
+48.900356|4.765002|poteau téléphonique|
+48.900699|4.769056|arbustes|
+48.899765|4.771984|D1|
+48.898992|4.774609|trou sous ardoise|
+48.898248|4.777102|pied thuya|
+48.897113|4.781241|borne en pierre|
+48.896237|4.784329|D1|
+48.894994|4.788608|à gauche du pied de noyer|
+48.893606|4.792858|trou sous ardoise|
+48.892018|4.796179|pied du poteau du grillage|
+48.891370|4.798254|pied de l'arbre|
+48.890467|4.801088|poteau électrique|
+48.889221|4.802506|sous thuya derrière pierre|
+48.887886|4.804198|poteau en béton sous lierre|
+48.885688|4.805353|derrière la glissière|
+48.884660|4.806904|au pied du sapin|
+48.884079|4.809252|poteau de parc au coin|
+48.884078|4.811463|dans le lierre, 1m70|
+48.882550|4.816644|au pied d’un arbre|
+48.881589|4.818450|derrière piquet|
+48.880487|4.820200|piquet|
+48.879473|4.821867|pied de l'arbuste|
+48.878209|4.823073|pied tronc, dans le lierre|
+48.876227|4.826716|D1|
+48.875114|4.828678|piquet coin|
+48.874394|4.830981|piquet|
+48.874211|4.833272|cépée d'arbre, le plus large|
+48.874147|4.835575|pied d'arbre|
+48.873863|4.837905|pied arbre et poteau|
+48.873798|4.840177|piquet|
+48.873497|4.842415|piquet|
+48.873331|4.844754|arbuste|
+48.873140|4.847368|dans pierre, à droite du calvaire|
+48.872952|4.849693|piquet|
+48.872769|4.852019|piquet|
+48.872590|4.854394|piquet|
+48.872419|4.856710|piquet|
+48.871950|4.858972|derrière gros tronc|
+48.871133|4.860909|arbre|
+48.870419|4.863019|cépée d'arbre|
+48.870104|4.865170|à côté du piquet vert, sous pierre|
+48.868649|4.865823|lierre|
+48.867018|4.865939|arbre lierre fourche à 1m80|
+48.865616|4.867198|cépée d'arbre|
+48.864502|4.868731|pied d'arbre|
+48.863056|4.869961|cépée d'arbre dans le fossé|2,5
+48.861974|4.871711|cépée d'arbre à 40cm vers la droite|
+48.861224|4.873802|pied d'arbre|
+48.860345|4.875634|piquet|
+48.859541|4.877576|pied d'arbuste|
+48.858733|4.879518|pied d'arbuste et piquet|
+48.858020|4.881550|pied d'arbre|
+48.857162|4.883372|piquet|
+48.856276|4.885574|multi troncs coupé|
+48.855369|4.887603|au cœur du gros arbre|
+48.854591|4.889582|au cœur de l'arbuste|
+48.853757|4.891582|pied d'arbre courbé|
+48.852959|4.893587|cépée d'arbre|
+48.852153|4.895737|piquet|
+48.851275|4.897550|pied d'arbuste|
+48.850327|4.899886|gros piquet|
+48.849493|4.901847|arbuste près du piquet|
+48.848669|4.903832|piquet arbuste|
+48.847853|4.905817|pied arbuste|
+48.846965|4.907906|entre 2 piquets|
+48.845835|4.910597|au pied de l'arbre|
+48.844389|4.911509|derrière bloc béton sous grosse pierre|
+48.842863|4.912431|derrière brique|
+48.841882|4.910011|piquet|
+48.841696|4.907525|piquet|
+48.841699|4.905130|arbuste piquet|
+48.840914|4.903136|piquet|
+48.840901|4.900785|entre piquet et bloc de pierre|
+48.839911|4.898762|pied du gros arbre|3
+48.838761|4.897304|piquet|
+48.837429|4.896109|piquet|
+48.835951|4.895310|pied piquet en fer|
+48.833423|4.894462|pied du piquet le plus à gauche|
+48.831949|4.894255|pied d'arbre coupé|
+48.830720|4.892588|piquet en ferraille penché|
+48.829074|4.890399|derrière muret en brique|
+48.827670|4.887262|arbre à 60cm de haut|
+48.826375|4.885697|entre 2 poteaux lierre 1m|
+48.824414|4.884679|2e piquet|
+48.822891|4.883973|piquet|
+48.821565|4.882880|piquet|2
+48.819891|4.882491|entre arbuste et piquet|
+48.818358|4.881249|piquet|
+48.817812|4.878832|pied du sapin|
+48.816980|4.876961|arbuste|
+48.815540|4.878274|derrière grosse pierre|
+48.811991|4.877932|piquet|
+48.810747|4.879242|derrière calvaire|
+48.810390|4.881579|entre château d'eau et muret|
+48.808692|4.883655|buisson muret (gauche) dans virage|
+48.807083|4.885038|piquet|
+48.805564|4.886055|bosquet pied d'arbre|2
+48.804069|4.886135|pied d'arbre dans le fossé|
+48.802596|4.886584|pied d'arbre|
+48.800504|4.887271|creux cépée d'arbre|
+48.798914|4.887624|glissière|
+48.797163|4.887956|pied d'arbre|
+48.795646|4.888247|pied gros arbre|
+48.794079|4.887737|pied d'arbuste|
+48.792608|4.888082|pied du piquet|
+48.791554|4.889975|bloc en béton|
+48.790588|4.891713|poteau électrique|
+48.789717|4.893516|derrière pierre dans le fossé|
+48.789198|4.896645|piquet|
+48.789209|4.899186|au pied de l'arbre au tronc blanc|
+48.789293|4.901522|pied du sapin|
+48.789455|4.904525|contre le muret|
+48.787911|4.905648|piquet en fer|
+48.786474|4.905374|piquet en fer|
+48.785090|4.903373|derrière arbre sous roches|
+48.784067|4.901323|creux de l'arbre|
+48.783034|4.899137|contre le mur, passer la main à travers le grillage|
+48.781401|4.898809|arbre multi-troncs|
+48.780351|4.900590|arbre à l'angle|
+48.780862|4.903586|poteau électrique|
+48.778520|4.905010|poteau électrique|
+48.776710|4.904502|multi-tronc|
+48.775355|4.902839|vieux gros arbre multi-troncs|
+48.774571|4.900798|piquet|
+48.772913|4.900840|sous piquet au sol|
+48.770971|4.902238|pilone électrique|
+48.768651|4.902823|entre piquet et tronc|
+48.767054|4.902399|arbre multi-troncs|
+48.765510|4.902146|creux arbre multi-tronc|
+48.763997|4.901808|pied arbuste|
+48.762469|4.901480|pied arbre|
+48.760920|4.901228|bois en forme de piques|
+48.759340|4.900886|pied arbuste|
+48.757630|4.900713|pied arbre multi-troncs|
+48.756066|4.900873|pied arbuste|
+48.754252|4.900605|pied arbre|
+48.752366|4.900655|1m, dans l'arbre|
+48.751053|4.902189|arbre multi-troncs|
+48.749745|4.903838|sous piquet au sol|
+48.748280|4.904158|pied piquet|
+48.746795|4.904374|piquet|
+48.745094|4.906409|rembarde de sécurité|
+48.743235|4.905725|2m, dans l'arbre|
+48.741753|4.906783|vieux tronc au sol|
+48.737855|4.907442|piquet en bois|
+48.736414|4.909960|poteau|
+48.736135|4.913740|1m, dans l'arbre|
+48.735740|4.916239|pied arbre|
+48.735041|4.919195|pied arbre multi-troncs|
+48.735442|4.921778|dans trou sous pierre|
+48.734729|4.924091|piquet|
+48.733920|4.926734|piquet|
+48.732965|4.929531|trou près du piquet|
+48.730643|4.933381|piquet|
+48.729603|4.935077|piquet|
+48.728103|4.936261|arbuste|
+48.726136|4.936922|rembarde de sécurité|
+48.724759|4.938686|piquet|
+48.721120|4.942322|sous pierre, contre la gouttière|
+48.719523|4.942974|sous cailloux|
+48.718073|4.943616|creux arbre multi-tronc|
+48.716013|4.945208|sous poteau penché|
+48.714285|4.946119|tronc couché|
+48.712650|4.944883|poteau|
+48.710936|4.944009|pied arbustes|
+48.709269|4.943588|poteau électrique|
+48.707235|4.943772|poteau|
+48.705455|4.944087|rembarde de sécurité|
+48.703361|4.944301|rembarde de sécurité|
+48.701672|4.944478|poteau|
+48.700024|4.944553|poteau délabré|
+48.697401|4.944863|poteau délabré|
+48.695101|4.945315|souche|
+48.693244|4.945535|poteau|
+48.690213|4.944687|poteau|
+48.687578|4.943904|arbre|
+48.685914|4.943334|poteau penché|
+48.684235|4.942739|poteau en fer|
+48.678781|4.941138|pied du panneau Office National des forêts|
+48.677137|4.941454|petites branches|
+48.671379|4.942697|gros arbre à 1m70 de haut|
+48.669608|4.943059|petites branches|
+48.665463|4.944000|multi troncs|
+48.663260|4.944413|poteau en bois|
+48.661087|4.943860|entre 2 poteaux en fer|
+48.659439|4.941262|entre grillage et boitier électrique|
+48.657913|4.940065|grosse souche|
+48.656343|4.938993|au pied d'un gros tronc|
+48.654879|4.937690|poteau|
+48.653483|4.935705|sous grosse pierre|
+48.654034|4.933050|derrière boite électrique|
+48.655164|4.930652|derrière boite électrique|
+48.655008|4.927948|derrière boite électrique|
+48.654888|4.925770|bosquet|
+48.655670|4.921376|troncs|
+48.655999|4.918979|creux du gros arbre|
+48.655772|4.916772|derrière à droite du gros arbre|
+48.655832|4.914037|vieille souche en mousse|
+48.656587|4.911829|poteau sous pierre|
+48.657659|4.909576|boitier électrique|
+48.660112|4.908578|poteau / troncs|
+48.663842|4.906142|bas / droite du boitier électrique|
+48.670252|4.893140|poteau en féraille|
+48.673374|4.890261|coin poteau|
+48.675245|4.888794|sous du béton au sol|
+48.677279|4.887044|coté droit du pont|
+48.679133|4.885801|derrière le poteau au sol (au milieu)|
+48.680957|4.884401|poteau électrique|
+48.685978|4.885311|bois piquet|
+48.687121|4.886692|à droite du gros arbre|
+48.688416|4.888034|pied arbre|
+48.689882|4.889165|creux multi micro-troncs|
+48.691267|4.890208|pied mini tronc|
+48.692629|4.891414|cépé d'arbre|
+48.694073|4.892636|cépé d'arbre|
+48.695543|4.893178|arbuste|
+48.697113|4.894868|creux gros arbre 1 mètre de haut|
+48.698164|4.896685|pied d'arbre|
+48.699569|4.895897|cépé d'arbre|
+48.701134|4.895027|pied sapin|
+48.702597|4.894219|cépé d'arbre|
+48.704123|4.893349|creux cépé d'arbre|
+48.705868|4.892258|pied gros arbre|
+48.707306|4.891440|creux gros arbre 3 troncs|
+48.708798|4.890207|cépé d'arbre|
+48.710053|4.888755|cépé d'arbre|
+48.711254|4.887310|cépé d'arbre|
+48.712499|4.885872|cépé d'arbre|
+48.713732|4.884565|au pied de l'arbuste à droite du sapin|
+48.714942|4.882867|cépé arbuste|
+48.716532|4.881612|cépé devant gros tronc|
+48.718931|4.878528|pied gros tronc|
+48.720579|4.876621|cépé d'arbre|
+48.721760|4.875248|cépé d'arbre|
+48.723093|4.873683|cépé d'arbre|
+48.724573|4.871983|9|
+48.725755|4.870633|7|
+48.727093|4.869026|cépé d'arbre|
+48.728362|4.867480|tronc mort à terre|
+48.729887|4.866514|creux double-troncs|
+48.731163|4.865214|pied arbre à 4 troncs|
+48.732606|4.864041|cépé d'arbre|
+48.733830|4.862643|pied gros sapin|
+48.735119|4.861385|cépé d'arbre|
+48.737004|4.859908|rembarde de sécurité|
+48.737866|4.857898|entre tronc et piquet|
+48.739081|4.854995|pied gros double tronc|
+48.740179|4.853188|pied d'arbre|
+48.741257|4.851460|piquet|
+48.742540|4.849931|rembarde de sécurité / blanc et gris|
+48.743989|4.848563|rembarde de sécurité / blanc et gris|
+48.745867|4.848970|pied gros tronc|
+48.751399|4.848056|piquet en fer|
+48.752409|4.846090|derrière arbre 2 troncs|
+48.753439|4.844543|contre grillage et arbuste|
+48.754621|4.843120|dans le mur|
+48.755724|4.840921|pied poteau électrique, derrière grillage|
+48.757117|4.840251|pied d'arbre|
+48.758505|4.840858|piquet|
+48.759967|4.841278|piquet|
+48.761458|4.841082|piquet et arbuste|
+48.763169|4.839288|coin du muret derrière une pierre|
+48.764728|4.838881|sous pierre, derrière poteau blanc|
+48.766004|4.837823|poteau|
+48.765770|4.835622|entre parpaing et poteau en fer|
+48.767242|4.836253|poteau électrique|
+48.769543|4.835963|à l'entrée à droite derrière la porte, derrière une pierre dans le mur|
+48.770543|4.834188|trou dans le béton au coin du pont|
+48.772264|4.832157|arbuste à coté poteau edf|
+48.773542|4.830998|glissière de sécurité|
+48.774761|4.829748|trou dans le béton|
+48.776098|4.828567|D61|
+48.778190|4.826941|piquet|
+48.779637|4.825573|pied tronc|
+48.781116|4.825494|panneau|
+48.782694|4.825926|piquet, sous brique rouge|
+48.784594|4.826552|pied arbre|
+48.785828|4.824554|pied arbre|
+48.785844|4.822194|pied arbre, mousse|
+48.786351|4.819170|bosquet|
+48.786843|4.816857|pied gros tronc|
+48.785649|4.815097|pied arbre|
+48.784925|4.813014|pied arbre|
+48.783981|4.811196|pied arbre|
+48.783167|4.809342|sous la cépée|
+48.782672|4.807213|pied d'arbre en fourche|
+48.781655|4.805557|piquet|
+48.780471|4.804291|grillage et arbuste|
+48.778830|4.802868|gros piquet|
+48.777440|4.801657|béton|
+48.775935|4.802476|piquet|
+48.774438|4.802542|piquet|
+48.772927|4.802149|piquet|
+48.771425|4.802669|piquet|
+48.769935|4.803193|pied arbre trait jaune|
+48.766927|4.803237|pied arbre à droite|
+48.767278|4.801097|pied arbre, lierre|
+48.767285|4.798863|pied arbuste, lierre|
+48.766918|4.796720|pied arbuste|
+48.767174|4.794496|pied broussaille|
+48.767749|4.792350|pied arbuste|
+48.768107|4.790164|sous touffe d'herbe|
+48.768596|4.788077|pied multi troncs|
+48.768581|4.785855|pied broussaille|
+48.767838|4.783878|pied multi troncs (4)|
+48.767362|4.781812|souche|
+48.766755|4.779451|derrière une tuile, gauche bosquet|
+48.765885|4.775404|trou dans le mur|
+48.764343|4.770360|de l'autre coté du mur, derrière une pierre|
+48.763967|4.767187|panneau Bignicourt|
+48.763666|4.764466|D259|
+48.762765|4.760764|béton au sol|
+48.762405|4.757585|petit pont|
+48.761950|4.755351|derrière poteau, lierre|
+48.761140|4.753413|devant piquet|
+48.760916|4.751032|poteau éléctrique|
+48.762248|4.749893|sous le banc en pierre|
+48.763731|4.750016|rembarde de sécurité|
+48.765253|4.749491|rembarde de sécurité|
+48.767317|4.748062|piquet|
+48.769085|4.746793|sous le pont| sous les tuyots|
+48.769513|4.744695|grosse cépée d'arbre, 1m de haut| 
+48.769408|4.742310|poteau|
+48.769436|4.739936|panneau 3m de haut|3
+48.770901|4.739784|cépée d'arbre|
+48.772580|4.739937|piquet au coin|
+48.774270|4.739898|cépée d'arbre|
+48.775898|4.739619|cépée d'arbre, 1m de haut|
+48.777706|4.739750|en haut du muret, derrière le lierre|
+48.777994|4.736665|poteau|
+48.778285|4.733164|cépée d'arbre|
+48.779904|4.732233|derrière gros double troncs|
+48.779490|4.730105|arbustes|
+48.779143|4.727950|arbustes|
+48.778802|4.725781|arbustes|
+48.778448|4.723592|arbustes|
+48.778103|4.721403|piquet|
+48.777981|4.719171|trou dans l'herbe|
+48.777588|4.717059|arbustes|
+48.777039|4.714990|arbustes|
+48.776547|4.712907|piquet|
+48.775778|4.710974|arbustes|
+48.774765|4.709385|arbustes|
+48.773875|4.707572|cépée d'arbre|
+48.772987|4.705708|cépée d'arbre|
+48.772090|4.703832|cépée d'arbre|
+48.770764|4.702752|cépée d'arbre|
+48.769179|4.702478|sous pierre|
+48.767389|4.701683|cépée d'arbre|
+48.767088|4.699202|cépée d'arbre|
+48.767012|4.696938|cépée d'arbre|
+48.766935|4.694285|blanc et gris|
+48.767292|4.691771|borne D14|
+48.767943|4.687355|panneau Outrepont|
+48.769003|4.685808|cépée d'arbre|
+48.771047|4.686734|buisson/touffe|
+48.772573|4.686009|buisson|
+48.774090|4.684842|pont/béton|
+48.775011|4.683031|mousse|
+48.775291|4.680777|arbuste|
+48.775630|4.678426|sous béton couvert de mousse|
+48.778389|4.680968|buissons|
+48.779437|4.683265|buissons|
+48.779969|4.685391|arbustes|
+48.780258|4.687566|buissons|
+48.780699|4.689703|buissons|
+48.780123|4.691846|buissons|
+48.780691|4.693958|pied d'arbre|
+48.781676|4.695717|pied d'arbre|
+48.782613|4.697547|piquet|
+48.783517|4.699378|piquet|
+48.784280|4.701339|pilone électrique|
+48.785165|4.703378|buissons|
+48.786310|4.704816|piquet|
+48.786981|4.706761|piquet|
+48.788251|4.708006|piquet|
+48.789750|4.708771|pilone électrique|
+48.791114|4.709822|piquet|
+48.792496|4.710477|piquet|
+48.794081|4.711699|sous le rochet de Vavray-le-Grand|
+48.795603|4.709966|poteau, sous pierre|
+48.797867|4.708625|dans le mur|
+48.799203|4.707559|coin muret|
+48.800383|4.709198|mur| derrière planche de bois|
+48.801894|4.711252|panneau|
+48.802752|4.713599|contre le béton du mini pont|
+48.804077|4.714525|pied d'arbre|
+48.806163|4.717239|poteau électrique|
+48.806224|4.719506|pied d'arbre avec lierre|
+48.806582|4.723451|arbuste|
+48.807351|4.725322|pied arbuste|
+48.808696|4.726312|piquet|
+48.809579|4.728379|sous pierre|
+48.811040|4.730307|piquet|
+48.811943|4.732661|mur derrière planche de bois|
+48.813205|4.735280|tableau électrique|
+48.813807|4.737529|pied poteau électrique|
+48.815188|4.738974|pied arbuste|
+48.816250|4.740473|pied arbre|2
+48.817914|4.742533|sous ancienne pompe à incendie|
+48.818492|4.744986|contre le mur|
+48.819905|4.746252|3/4 des escaliers à droite entre pierre et béton|
+48.820977|4.747735|cépée d'arbre|
+48.822167|4.749033|piquet arbuste|
+48.822564|4.751391|arbuste|
+48.822155|4.753583|sous souche contre le piquet|
+48.822228|4.755819|arbuste|
+48.822237|4.758075|gros piquet|
+48.822518|4.760760|cépée d'arbre|
+48.823610|4.762544|gros tronc|
