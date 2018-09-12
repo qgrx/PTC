@@ -6,4 +6,4 @@ Power Trail Creator
 Quick install and use :
  - pip install beautifulsoup4
  - Edit sample.txt file with your coordinates and hints.
- - python publish_geocache.py -u username -p password
+ - python3 publish_geocache.py -u username -p password
