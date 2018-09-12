@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 # global cookie
 c = 0
 # global cache number
-n = 405
+n = 1
 
 def connect(u, p):
     global c
@@ -116,9 +116,9 @@ def create_cache(elts, n):
     print('OK ! ')
 
     
-def parse_caches():
+def parse_caches(myfile):
     global n
-    with io.open("sample.txt",'r',encoding='utf8') as f:
+    with io.open(myfile,'r',encoding='utf8') as f:
         lines = f.readlines()
         
     for line in lines:
@@ -132,6 +132,20 @@ if __name__ == '__main__':
     parser.add_argument('-p', '--password')
     args = parser.parse_args()
     connect(args.username, args.password)
-    
-    parse_caches()
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-u', '--username')
+    parser.add_argument('-p', '--password')
+    parser.add_argument('-F', '--powertrailFile')
+    args = parser.parse_args()
+    connect(args.username, args.password)
+
+    with open(args.gccodeFile) as f: 
+        for line in f:
+            l = line.split('\t')
+            coords = to_decimal(l[1])
+            change_coords(l[0], coords)
+
+    parse_caches(args.powertrailFile)
     
