@@ -3,6 +3,7 @@ import io
 import argparse
 import json
 import requests
+import urllib3
 from requests import session
 from bs4 import BeautifulSoup
 
@@ -11,13 +12,17 @@ c = 0
 # global cache number
 n = 1
 
+urllib3.disable_warnings()
+
+domain = 'https://www.geocaching.com'
+
 def connect(u, p):
     global c
 
     c = session()
     c.cookies.clear()
      
-    html = c.get('https://www.geocaching.com/account/login', verify=False)
+    html = c.get(domain + '/account/login', verify=False)
     rvt = get_requestVerificationToken(html.text)
     payload = {
         'Username': u,
@@ -25,7 +30,7 @@ def connect(u, p):
         '__RequestVerificationToken': rvt
     }
 
-    r = c.post('https://www.geocaching.com/account/login/', data=payload, verify=False)
+    r = c.post(domain + '/account/login/', data=payload, verify=False)
     print('== Login done (account : ' + u + ') ==')
 
         
@@ -38,24 +43,29 @@ def get_viewstategenerator(html):
     bs = BeautifulSoup(html, "html.parser")
     viewstates = bs.find("input", {"id": "__VIEWSTATEGENERATOR"}).attrs['value']
     return viewstates
-            
+
+def get_requestVerificationToken(html):
+    bs = BeautifulSoup(html, "html.parser")
+    viewstates = bs.find("input", {"name": "__RequestVerificationToken"}).attrs['value']
+    return viewstates
+
 # 2
 def post_typelocation():
     global c
     varjson = {}
-    c.post('https://www.geocaching.com/hide/waypoints.aspx/SaveTraditionalGeocacheDraft', json=varjson)
+    c.post(domain + '/hide/waypoints.aspx/SaveTraditionalGeocacheDraft', json=varjson)
         
 # 3
 def post_waypoints():
     global c
     varjson = {}
-    c.post('http://www.geocaching.com/hide/waypoints.aspx/SaveTraditionalGeocacheDraft', json=varjson)
+    c.post(domain + '/hide/waypoints.aspx/SaveTraditionalGeocacheDraft', json=varjson)
 
 # 4
 def post_description():
     global c
     varjson = {}
-    c.post('http://www.geocaching.com/hide/description.aspx/SaveTraditionalGeocacheDraft', json=varjson)
+    c.post(domain + '/hide/description.aspx/SaveTraditionalGeocacheDraft', json=varjson)
 
 # 5
 def post_sizerating(elts, n):
@@ -67,7 +77,7 @@ def post_sizerating(elts, n):
 
     headers = {'Content-Type': 'application/json'}
     varjson = {"draftSubmission":{"ContainerType":"Micro","DatePlaced":"2016-03-03T00:00:00","ChosenGeocacheAttributes":[{"GeocacheAttributeId":"13","IsApplicable":"true"},{"GeocacheAttributeId":"19","IsApplicable":"true"},{"GeocacheAttributeId":"43","IsApplicable":"true"}],"ContactName":"qgx","Coordinate":{"Latitude":latitude,"Longitude":longitude},"CountryId":73,"Description":"<p></p>\n","DifficultyRating":1,"GeocacheType":"TraditionalGeocache","Hint":hint,"IsPremiumMembersOnly":"false","Name":title,"StateId":418,"Summary":"<p>resume</p>\n","TerrainRating":1,"Waypoints":[]},"furthestProgressIndex":3,"tkn":"wffITq-HTVGgZQImBTnEnwsitFNQFbcwIrsFXqXrU3IuDShbAGWKpqygNLsk8YWzPjtVcRq_lMI8-c6JC6kP6wBieqyxpraGe3fpp_L5lXsTsAfM5ISqWav5b66H6G0NVYbrzOJxQVetBH3hJJlwdg2"}
-    c.post('http://www.geocaching.com/hide/sizeratings.aspx/SaveTraditionalGeocacheDraft', json=varjson, headers=headers)
+    c.post(domain + '/hide/sizeratings.aspx/SaveTraditionalGeocacheDraft', json=varjson, headers=headers)
     
 # 6
 def post_reviewernotes(response):
@@ -84,7 +94,7 @@ def post_reviewernotes(response):
         'ctl00$ContentBody$btnSubmit': 'Save and Preview'
     }
 
-    resp = c.post('https://www.geocaching.com/hide/reviewernotes.aspx', data=payload)
+    resp = c.post(domain + '/hide/reviewernotes.aspx', data=payload)
     bs = BeautifulSoup(resp.text, "html.parser")
     
     with open("gc.txt", "a") as myfile:
@@ -113,7 +123,7 @@ def create_cache(elts, n):
     post_sizerating(elts, n)
     print('4, ', end="")
 
-    resp = c.get('https://www.geocaching.com/hide/reviewernotes.aspx')
+    resp = c.get(domain + '/hide/reviewernotes.aspx')
     post_reviewernotes(resp)
     print('OK ! ')
 
